@@ -1,0 +1,231 @@
+.error-msg{
+  color: red;
+}
+.second-cont{
+  background-color: #101010;
+}
+.cont_body{
+  margin-left: 100px;
+  
+}
+.text-cont{
+  color: #f1f2f2cb;
+}
+.button-grp{
+  width: 50% !important;
+  margin-right: 30px !important ;
+  
+  padding-bottom: 30px;
+}
+.ride-card{
+  background-color: #1010109a;
+}
+.navbar-main{
+  background-color: #000000;
+}
+.date-time{
+  padding: 30px !important;
+}
+.date-inner{
+ 
+  margin-left: 10px;
+  padding: 30px !important;
+  background-color: #2020204e;
+  border-radius: 10px;
+  
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.input-datetime
+{
+  background-color: #1c1d1d62;
+  color: rgba(255, 255, 255, 0.199);
+}
+
+.footer-card
+{
+  padding-bottom: 30px !important;
+  background-color: #4646464b;
+  color: #f1f2f2;
+}
+
+.contact-footer{
+margin-bottom: 30px !important;
+padding: 30px;
+}
+/* ===============USER HOME */
+.img-head{
+ width:100%;
+}
+.main-card
+{
+width: 200%;
+height: auto;
+margin-left: -50%;
+margin-top: 10%;
+background-color: #181818ae;
+color: rgba(245, 245, 245, 0.687);
+
+}
+
+.sidebarr
+{
+  margin-top: 10px;
+  background-color: #1a1a1a;
+  color: whitesmoke;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.sidebarr:hover{
+  background-color: rgba(53, 53, 53, 0.338);
+  color: #ffffff;
+}
+
+.icon-cont {
+  width: auto;
+  background-color: #3b05467a;
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.icon-cont2 {
+  width: auto;
+  background-color: #e9b73952;
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.icon-cont3 {
+  width: auto;
+  background-color: #e876ff2f;
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+
+
+
+/* ----------------------------- */
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.from_to{
+  align-items: center;
+}
+.body{
+  margin-top:20px;
+  background:#FAFAFA;    
+}
+.ride_details{
+  color: white;
+}
+.ride_pricing{
+  color: whitesmoke;
+ 
+}
+.input_box {
+  color: whitesmoke;
+  background-color: rgba(24, 24, 24, 0.233);
+}
+
+/*==================================================
+PREF RIDE CSS
+==================================================*/
+
+.people-nearby .google-maps{
+background: #f8f8f8;
+border-radius: 4px;
+border: 1px solid #f1f2f2;
+padding: 20px;
+margin-bottom: 20px;
+}
+
+.people-nearby .google-maps .map{
+height: 300px;
+width: 100%;
+border: none;
+}
+
+.people-nearby .nearby-user
+{
+   padding: 20px 0;
+ 
+   margin-bottom: 20px;
+   background-color: #13141477;
+   border-radius: 10px;
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+   
+}
+
+img.profile-photo-lg{ height: 80px; width: 80px; border-radius: 50%; 
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.box-prefride{
+  border-radius: 10px;
+  background-color: rgba(18, 18, 18, 0.671);
+  padding: 30px;
+  margin: 20px;
+}
+.pref-ride-text{
+  color: rgba(245, 245, 245, 0.532);
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+  --bs-gutter-x: 0rem !important;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * .5);
+  padding-left: calc(var(--bs-gutter-x) * .5);
+  margin-right: auto;
+  margin-left: auto;
+}

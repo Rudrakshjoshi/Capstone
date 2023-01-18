@@ -1,0 +1,156 @@
+.req-card{
+    background-color: rgba(5, 5, 5, 0.356);
+    width: auto;
+    height: auto;
+   
+    padding: 30px;
+} 
+.driver-table-thread{
+    border-color: rgba(128, 128, 128, 0.162);
+}
+.main-conatiner{
+    padding: 20px;
+}
+.history-cont{
+    color: rgba(245, 245, 245, 0.45);
+    margin-left: 40px;
+    padding: 30px;
+}
+.history-table{
+    color: rgba(240, 248, 255, 0.55);
+    border-color: rgba(240, 248, 255, 0.112);
+}
+.total-grid
+{
+    
+    background-color: rgba(0, 0, 0, 0.126);
+    color: rgba(240, 248, 255, 0.388);
+    padding: 20px;
+}
+.main_Container{
+   
+   margin-top: 73px;
+   padding: 10px;
+   width: 70%;
+   margin-left: 230px;
+   border-radius:10px ;
+   color: #fff;
+   background-color: rgba(39, 39, 39, 0.349);
+   backdrop-filter: blur(10px);
+   box-shadow: rgba(25, 25, 25, 0.324) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  
+}
+.dash-button{
+    padding: 10px;
+    background-color: rgb(39, 39, 39);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.dash-button:hover {
+    background-color: rgb(61, 61, 61);
+  }
+
+.table-cont{
+    margin-top: 35px;
+    height: auto;
+    background-color: rgba(31, 31, 31, 0.651);
+    padding:20px;
+    height: auto;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+}
+  
+
+
+.drive-cont{
+    margin-top: 62px;
+    
+}
+.drive-log{
+    background-color: black;
+    padding: 20px;
+}
+
+
+.main-head{
+    height: 150px;
+    background: #FFF;
+   
+}
+
+.sidenav {
+    height: 100%;
+    background-color: #000;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+
+.main {
+    padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+}
+
+@media screen and (max-width: 450px) {
+    .login-form{
+        margin-top: 10%;
+    }
+
+    .register-form{
+        margin-top: 10%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .main{
+        margin-left: 40%; 
+    }
+
+    .sidenav{
+        width: 40%;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+    }
+
+    .login-form{
+        margin-top: 112px;
+    }
+
+    .register-form{
+        margin-top: 20%;
+    }
+}
+
+
+.login-main-text{
+    margin-top: 20%;
+    padding: 60px;
+    color: #fff;
+}
+
+.login-main-text h2{
+    font-weight: 300;
+}
+
+.btn-black{
+    background-color: #000 !important;
+    color: #fff;
+}
+.label-driv{
+    color: #FFF;
+}
+.status-col{
+    color: green;
+    text-decoration: underline;
+}

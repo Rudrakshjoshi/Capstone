@@ -1,0 +1,54 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+.Log-in-conatiner{
+    padding: 100px;
+}
+.log-card
+{
+    
+    height: 100%;
+    border-radius: 10px;
+    background: rgba(16, 16, 16, 0.781);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(0px);
+    webkit-backdrop-filter: blur(0px);
+}
+.inner_card{
+    padding: 50px;
+}
+.input-field{
+    background-color: rgba(0, 0, 0, 0.231);
+    color: aliceblue;
+    
+
+}
+.newacc{
+    color: rgba(255, 255, 255, 0.493);
+}
+.coloumn-reg{
+    margin-top: -50px;
+}
+.login-model{
+    height: auto;
+    width: 170%;
+    margin-left: -183px;
+    background-color: rgba(79, 79, 79, 0.299);
+}
+.model-head{
+    border-bottom: var(--bs-modal-header-border-width) solid #343434;
+}
+.model-title{
+    color: rgba(238, 238, 238, 0.381);
+}
+.user_name{
+    color: rgba(238, 238, 238, 0.674);
+    margin-top: 6px;
+}
+.reg-img{
+    margin-top: -59px;
+}

@@ -1,0 +1,188 @@
+-----------------User Payment css-------------- .main_ucont {
+  color: #ccc;
+  margin: 100px;
+  max-width: 100px;
+  background-color: rgba(52, 52, 52, 0.509);
+  padding: 0;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.form-controll {
+  height: 25px;
+  width: 150px;
+  border: none;
+  border-radius: 0;
+  font-weight: 800;
+  padding: 0 0 5px 0;
+  background-color: transparent;
+  box-shadow: none;
+  outline: none;
+  border-bottom: 2px solid #ccc;
+  margin: 0;
+  font-size: 14px;
+}
+
+.form-controll:focus {
+  box-shadow: none;
+  border-bottom: 2px solid #ccc;
+  background-color: transparent;
+}
+
+.form-control2 {
+  font-size: 14px;
+  height: 20px;
+  width: 55px;
+  border: none;
+  border-radius: 0;
+  font-weight: 800;
+  padding: 0 0 5px 0;
+  background-color: transparent;
+  box-shadow: none;
+  outline: none;
+  border-bottom: 2px solid #ccc;
+  margin: 0;
+}
+
+.form-control2:focus {
+  box-shadow: none;
+  border-bottom: 2px solid #ccc;
+  background-color: transparent;
+}
+
+.form-control3 {
+  font-size: 14px;
+  height: 20px;
+  width: 30px;
+  border: none;
+  border-radius: 0;
+  font-weight: 800;
+  padding: 0 0 5px 0;
+  background-color: transparent;
+  box-shadow: none;
+  outline: none;
+  border-bottom: 2px solid #ccc;
+  margin: 0;
+}
+
+.form-control3:focus {
+  box-shadow: none;
+  border-bottom: 2px solid #ccc;
+  background-color: transparent;
+}
+
+p {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.text-muted {
+  font-size: 15px;
+}
+
+.textmuted {
+  color: #a1a1a1;
+  font-size: 13px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+
+.btn.btn-primaryy {
+  width: 100%;
+  height: 55px;
+  border-radius: 10px;
+  padding: 13px 0;
+  background-color: rgb(102, 65, 251);
+  border: none;
+  font-weight: 600;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.btn.btn-primaryyy {
+  width: 100%;
+  height: 55px;
+  border-radius: 10px;
+  padding: 13px 0;
+  background-color: rgb(86, 83, 82);
+  border: none;
+  font-weight: 600;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.btn.btn-prime {
+  width: 100%;
+  height: 55px;
+  border-radius: 10px;
+  padding: 13px 0;
+  background-color: #107fc4;
+  border: none;
+  font-weight: 600;
+  color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.btn.btn-primaryy:hover .fas {
+  transform: translateX(10px);
+  transition: transform 0.5s ease;
+  -webkit-transition: transform 0.5s ease;
+  -moz-transition: transform 0.5s ease;
+  -ms-transition: transform 0.5s ease;
+  -o-transition: transform 0.5s ease;
+}
+
+.fw-900 {
+  font-weight: 900;
+}
+
+::placeholder {
+  font-size: 12px;
+}
+
+.ps-30 {
+  padding-left: 30px;
+}
+
+.h4 {
+  font-family: "Work Sans", sans-serif !important;
+  font-weight: 800 !important;
+}
+
+.textmuted,
+h5,
+.text-muted {
+  font-family: "Poppins", sans-serif;
+}
+
+.card-details {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.notify{
+  z-index: 12;
+}
+.success{
+  margin-top: -40px;
+  padding: 50px;
+  width: 50%;
+}

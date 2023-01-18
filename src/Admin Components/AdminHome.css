@@ -1,0 +1,66 @@
+.sidebar{
+  background: rgba(0, 0, 0, 0.758);
+  height: 100vh;
+  margin-left: -20px;
+  color: rgb(241, 241, 241);
+  margin-top: 30px;
+ 
+}
+.top_section
+{
+   padding: 20px;
+   margin-top: 10px;
+   display: flex;
+  
+   justify-content: space-between;
+}
+.top_section1
+{
+  
+   display:flex;
+   
+  padding-right: -20px;
+   justify-content: space-between;
+}
+.sec
+{
+   margin-top: 50px;
+
+
+}
+
+.main-sec{
+  padding: 10px;
+  padding-left: 20px;
+}
+
+.main-sec:hover {
+  background-color: rgba(14, 14, 14, 0.671);
+ border-right: 4px solid whitesmoke;
+ 
+  
+}
+.admin-body{
+  margin-top: -570px;
+  background: rgba(50, 50, 50, 0.413);
+  padding: 30px;
+  border-radius: 10px;
+  
+}
+.table{
+color: rgba(156, 156, 156, 0.66);
+border-color: rgb(40, 40, 40);
+}
+.table-thread{
+  color: rgba(182, 242, 51, 0.546);
+}
+/* =============== User mangemnet admin pannel*/
+.search-box{
+  background-color: rgba(87, 87, 87, 0.295);
+  border: 1px;
+  
+  
+  }
+.text-usermng{
+  color: aliceblue;
+}   
